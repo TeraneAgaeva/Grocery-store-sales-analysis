@@ -21,17 +21,17 @@ The analysis includes a wide range of tasks, from profitability analysis to expl
 
 Key analysis tasks:
 
-Analysis of business financial indicators and their interrelations and influence.
-Identifying the most profitable regions (countries and cities).
-Dependencies between profit and costs.
-Analysis of the impact of taxes on profit.
-Investigating seasonal sales fluctuations.
-Analyzing peak shopping hours.
-Analysis of the impact of increasing working hours on profitability.
-Identifying the most popular, profitable and priority products for business.
-Analysis of product profitability by geographical characteristics.
-Pricing Analysis.
-Research for Online Business Decision Making.
+* Analysis of business financial indicators and their interrelations and influence.
+* Identifying the most profitable regions (countries and cities).
+* Dependencies between profit and costs.
+* Analysis of the impact of taxes on profit.
+* Investigating seasonal sales fluctuations.
+* Analyzing peak shopping hours.
+* Analysis of the impact of increasing working hours on profitability.
+* Identifying the most popular, profitable and priority products for business.
+* Analysis of product profitability by geographical characteristics.
+* Pricing Analysis.
+* Research about Online Business Decision Making.
 
 
 
